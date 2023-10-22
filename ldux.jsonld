@@ -1,0 +1,24 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@id": "did:meme:1zgsgzd7rx8azrj3yxz7ygeupwxhhgjsh6mvkdxaet42rgzucrazdqrggja0va",
+    "@type": "CreativeWork",
+    "name": "Memes - One Does Not Simply Understand All Memes",
+    "description": "A humorous image, video, piece of text, etc., that is copied (often with slight variations) and spread rapidly by internet users.",
+    "image": [
+      "https://ipfs.infura.io/ipfs/QmX34cs9Bh9zkPtyySxpoqNMZPubTKzYteYxnkQsM3f7ja",
+      "https://1lvt5g20h7kxr28f91nl29bq-wpengine.netdna-ssl.com/wp-content/uploads/sites/109/one-does-not-simply-understand-all-memes.jpg"
+    ],
+    "sameAs": [
+      "https://www.wackymemes.com/one-does-not-simply-understand-all-memes/",
+      "https://www.wackymemes.io/one-does-not-simply-understand-all-memes/"
+    ],
+    "url": "https://json-ld-parser-meme-test.netlify.app"
+  },{
+    "@context": "https://ldux.org",
+    "didMethod": "did:meme",
+    "dataSync": "ipfs",
+    "buttonColor": "#008000",
+    "fontColor": "rgb(230 29 27)"
+  }
+]

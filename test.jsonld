@@ -1,0 +1,18 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@id": "did:meme:1zgsgzd7rx8azrj3yxz7ygeupwxhhgjsh6mvkdxaet42rgzucrazdqrggja0va",
+    "@type": "CreativeWork",
+    "name": "Wacky Memes - One Does Not Simply Understand All Memes",
+    "description": "Wacky Memes is your source for wacky memes on the internet. We currently have 54,659 followers and have had over 30 Million Post Reach in the last 28 Days.",
+    "image": [
+      "https://ipfs.infura.io/ipfs/QmX34cs9Bh9zkPtyySxpoqNMZPubTKzYteYxnkQsM3f7ja",
+      "https://1lvt5g20h7kxr28f91nl29bq-wpengine.netdna-ssl.com/wp-content/uploads/sites/109/one-does-not-simply-understand-all-memes.jpg"
+    ],
+    "sameAs": [
+      "https://www.wackymemes.com/one-does-not-simply-understand-all-memes/",
+      "https://www.wackymemes.io/one-does-not-simply-understand-all-memes/"
+    ],
+    "url": "https://json-ld-parser-meme-test.netlify.app"
+  }
+]
